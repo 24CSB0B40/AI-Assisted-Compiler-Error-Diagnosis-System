@@ -1,0 +1,10 @@
+{
+  "best_model": "Random Forest",
+  "best_accuracy": 0.86,
+  "all_model_accuracies": {
+    "Random Forest": 0.86,
+    "SVM": 0.52,
+    "Logistic Regression": 0.72,
+    "KNN": 0.64
+  }
+}

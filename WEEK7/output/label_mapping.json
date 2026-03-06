@@ -1,0 +1,10 @@
+{
+  "0": "Invalid Syntax in Declarations",
+  "1": "Missing Header Include",
+  "2": "Missing Return Statement",
+  "3": "Missing Semicolon",
+  "4": "Type Mismatch",
+  "5": "Undeclared Variable",
+  "6": "Unmatched Braces",
+  "7": "Unmatched Parentheses"
+}

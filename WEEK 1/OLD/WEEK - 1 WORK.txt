@@ -1,0 +1,66 @@
+WEEK - 1 WORK
+
+1. Study Different Types of Compiler Errors
+2. Understand Limitations of Traditional Compiler Error Messages
+3. Revise Basic Compiler Phases (Focus on Parsing)
+
+
+1.Study Different Types of Compiler Errors
+
+
+Compiler Phase			Error Type		Can compiler proceed?
+
+Lexical Analysis		Lexical errors			❌ Stops
+Syntax Analysis(Parsing)	Syntax / parsing errors	❌ Stops
+Semantic Analysis		Type / semantic errors	❌ Stops
+Intermediate/Code Gen	Runtime-related issues	❌ Stops
+
+
+here we mainly focus on
+ 		-> SYNTAX ERRORS or
+ 		->PARSING ERRORS
+ why these because -> The compiler can report errors only up to the phase it successfully reaches.
+ 			      -> Syntax & parsing errors happen EARLIEST
+ 			      -> and also these (synt &pars errors) have patterns ,they are ambiguous ,they are frequent ,they are grammar based
+ 			      ->They are realistically solvable with AI
+ 
+
+
+***SYNTAX ERRORS & PARSING ERRORS***
+
+=> SYNTAX   -> Grammar rules of the language
+ 		    ->If grammar rules are violated → syntax error
+
+=>PARSER   -> A parser  :
+ 					takes tokens from the lexer
+ 					tries to match with the grammar rules [ ** if matching fails -> parsing error ** ]
+ 					builds a parse tree / AST
+
+=> syntax error 	-> syntax errors occur when the sequence of tokens violates the grammar rules of the programming language.
+*** examples ***
+ ->Missing semicolon
+ ->Unmatched braces
+ ->Incorrect keyword usage ( innt x; )
+ ->Incorrect statement structure ( int x = ; )
+
+=> parsing errors     -> a parsing error is a failure of the parser to construct a valid parse tree from the given tokens.
+
+  ** Syntax error and parsing error are detected by the SAME PHASE
+They differ in perspective, not phase. **
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Deliverable 1: Problem Understanding Document
+Deliverable 2: List of Common Compiler Errors

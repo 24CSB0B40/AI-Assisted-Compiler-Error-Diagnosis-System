@@ -1,0 +1,497 @@
+source_file,error_category,line_number,column_number,msg_has_expected,msg_has_declared,msg_has_before,msg_has_type,msg_has_conversion,msg_has_return,msg_has_control,msg_has_implicit,msg_has_unknown,msg_mentions_semicolon,msg_mentions_brace,msg_mentions_paren,msg_length,msg_word_count,code_length,code_ends_semicolon,code_has_declaration,code_open_braces,code_close_braces,code_open_parens,code_close_parens,code_has_assignment,code_has_comparison,code_has_string,brace_balance,paren_balance,total_braces,total_parens
+undeclared_3_aug177.cpp,Undeclared Variable,1,7,0,1,0,0,0,0,0,0,0,0,0,0,39,7,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_17.cpp,Missing Header Include,6,11,1,0,1,0,0,0,0,0,0,0,0,0,40,4,36,0,1,0,0,0,0,0,1,0,0,0,0,0
+undeclared_1.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,35,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_semicolon_22.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,23,1,0,0,0,0,0,0,1,0,0,0,0,0
+undeclared_14.cpp,Undeclared Variable,7,13,0,1,0,0,0,0,0,0,0,0,0,0,38,7,64,0,0,0,0,1,1,0,1,1,0,0,0,2
+type_mismatch_13_aug128.cpp,Type Mismatch,13,26,0,0,0,1,1,0,0,0,0,0,0,0,112,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_14.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,23,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_8.cpp,Invalid Syntax in Declarations,6,14,1,0,1,0,0,0,0,0,0,0,0,0,33,4,57,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_parens_13.cpp,Unmatched Parentheses,6,32,1,0,1,0,0,0,0,0,0,0,1,1,29,5,60,0,0,1,0,2,1,0,0,0,1,1,1,3
+invalid_decl_14.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,46,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_return_10.cpp,Missing Return Statement,9,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_16_aug864.cpp,Missing Header Include,2,3,0,1,0,0,0,0,0,0,0,0,0,0,45,7,25,0,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_15_aug371.cpp,Type Mismatch,11,13,0,0,0,1,1,0,0,0,0,0,0,0,60,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_3.cpp,Missing Semicolon,8,34,0,1,0,0,0,0,0,0,0,0,0,0,36,7,41,1,0,0,0,0,0,0,1,1,0,0,0,0
+missing_header_8.cpp,Missing Header Include,9,34,0,1,0,0,0,0,0,0,0,0,0,0,37,7,53,0,0,0,0,3,3,0,0,0,0,0,0,6
+unmatched_braces_11.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+undeclared_10_aug384.cpp,Undeclared Variable,3,7,0,1,0,0,0,0,0,0,0,0,0,0,42,7,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_23.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,39,7,23,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_return_6.cpp,Missing Return Statement,6,9,0,0,0,0,0,0,0,0,0,0,0,0,44,4,19,1,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_parens_9_aug173.cpp,Unmatched Parentheses,5,26,1,0,0,0,0,0,0,0,0,0,1,1,31,6,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+undeclared_9.cpp,Undeclared Variable,7,5,0,1,0,0,0,0,0,0,0,0,0,0,34,7,48,0,0,0,0,1,1,1,0,1,0,0,0,2
+missing_header_22_aug241.cpp,Missing Header Include,13,34,0,1,0,0,0,0,0,0,0,0,0,0,43,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_10_aug581.cpp,Unmatched Parentheses,5,25,1,0,0,0,0,0,0,0,0,1,0,1,31,6,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+missing_header_17.cpp,Missing Header Include,6,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,36,0,1,0,0,0,0,0,1,0,0,0,0,0
+missing_header_13.cpp,Missing Header Include,7,18,0,1,0,0,0,0,0,0,0,0,0,0,47,7,72,0,1,0,0,1,1,1,1,0,0,0,0,2
+missing_header_28.cpp,Missing Header Include,7,13,0,1,0,0,0,0,0,0,0,0,0,0,36,7,26,1,0,0,0,1,1,0,1,0,0,0,0,2
+missing_header_21_aug374.cpp,Missing Header Include,4,22,0,1,0,0,0,0,0,0,0,0,0,0,43,7,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_8_aug354.cpp,Unmatched Parentheses,5,13,1,0,0,0,0,0,0,0,0,0,1,1,31,6,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+missing_header_18.cpp,Missing Header Include,7,5,0,1,0,0,0,0,0,0,0,0,0,0,35,7,12,1,0,0,0,1,1,0,0,0,0,0,0,2
+missing_header_14.cpp,Missing Header Include,8,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,19,1,0,0,0,0,0,1,0,1,0,0,0,0
+undeclared_25_aug236.cpp,Undeclared Variable,7,4,0,1,0,0,0,0,0,0,0,0,0,0,48,7,31,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_header_18.cpp,Missing Header Include,6,11,1,0,1,0,0,0,0,0,0,0,0,0,40,4,37,0,1,0,0,0,0,0,1,0,0,0,0,0
+missing_return_8.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_10.cpp,Invalid Syntax in Declarations,6,11,0,0,0,0,0,0,0,0,0,0,0,0,17,2,44,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_parens_20.cpp,Unmatched Parentheses,5,28,1,0,1,0,0,0,0,0,0,1,1,0,29,5,24,1,0,0,0,0,0,0,1,1,0,0,0,0
+missing_header_2.cpp,Missing Header Include,7,28,0,1,0,0,0,0,0,0,0,0,0,0,37,7,47,0,1,0,0,1,1,1,0,0,0,0,0,2
+type_mismatch_12.cpp,Type Mismatch,8,9,0,0,0,0,1,0,0,0,0,0,0,0,105,10,39,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_semicolon_25.cpp,Missing Semicolon,5,12,0,0,0,0,0,0,0,0,0,0,0,0,41,4,17,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_8.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,1,0,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_2.cpp,Unmatched Braces,9,13,1,0,0,0,0,0,0,0,0,0,1,0,28,6,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_4.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,34,1,0,0,0,0,0,0,1,1,0,0,0,0
+undeclared_4_aug744.cpp,Undeclared Variable,5,6,0,1,0,0,0,0,0,0,0,0,0,0,41,7,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+invalid_decl_25.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,51,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_parens_10_aug431.cpp,Unmatched Parentheses,2,20,1,0,1,0,0,0,0,0,0,1,0,1,35,6,19,0,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_1.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,49,0,1,0,0,0,0,1,0,1,0,0,0,0
+invalid_decl_15.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,40,7,50,0,0,0,0,0,0,1,0,1,0,0,0,0
+unmatched_parens_20.cpp,Unmatched Parentheses,5,28,1,0,1,0,0,0,0,0,0,1,0,1,29,5,24,1,0,0,0,0,0,0,1,1,0,0,0,0
+missing_semicolon_21.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,25,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_header_25.cpp,Missing Header Include,6,24,0,1,0,0,0,0,0,0,0,0,0,0,37,7,43,0,1,0,0,1,1,1,0,0,0,0,0,2
+unmatched_parens_6.cpp,Unmatched Parentheses,9,1,1,0,1,0,0,0,0,0,0,0,1,0,37,5,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_26_aug552.cpp,Type Mismatch,12,15,0,0,0,0,1,0,0,0,0,0,0,0,103,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+undeclared_11_aug460.cpp,Undeclared Variable,2,8,0,1,0,0,0,0,0,0,0,0,0,0,37,7,19,0,0,0,0,0,0,0,1,0,0,0,0,0
+missing_return_25_aug348.cpp,Missing Return Statement,3,4,0,0,0,1,0,1,0,0,0,0,0,0,66,8,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_19.cpp,Missing Return Statement,9,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_18.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_7_aug775.cpp,Type Mismatch,12,11,0,0,0,1,1,0,0,0,0,0,0,0,66,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_14_aug175.cpp,Type Mismatch,4,13,0,0,0,0,1,0,0,0,0,0,0,0,57,8,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+unmatched_parens_26_aug193.cpp,Unmatched Parentheses,11,12,1,0,1,0,0,0,0,0,0,0,1,1,35,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_28.cpp,Unmatched Braces,13,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_23.cpp,Type Mismatch,6,13,0,0,0,0,1,0,0,0,0,0,0,0,55,7,35,0,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_30_aug296.cpp,Type Mismatch,10,11,0,0,0,0,1,0,0,0,0,0,0,0,51,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_28.cpp,Invalid Syntax in Declarations,5,15,0,0,0,0,0,0,0,0,0,0,0,0,36,8,48,0,1,0,0,0,0,1,0,0,0,0,0,0
+undeclared_25_aug379.cpp,Undeclared Variable,9,3,0,1,0,0,0,0,0,0,0,0,0,0,41,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_9.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,35,6,20,1,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_17.cpp,Unmatched Braces,13,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_13.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,37,1,0,0,0,0,0,0,1,1,0,0,0,0
+unmatched_parens_6.cpp,Unmatched Parentheses,6,5,1,0,1,0,0,0,0,0,0,0,1,0,25,4,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+missing_header_16.cpp,Missing Header Include,6,9,1,0,1,0,0,0,0,0,0,0,0,0,40,4,32,0,1,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_16.cpp,Unmatched Braces,9,12,0,0,1,0,0,0,0,0,0,0,1,0,58,9,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+undeclared_23.cpp,Undeclared Variable,5,9,0,1,0,0,0,0,0,0,0,0,0,0,34,7,45,0,0,1,0,1,1,1,1,1,1,0,1,2
+unmatched_parens_26_aug579.cpp,Unmatched Parentheses,5,16,1,0,0,0,0,0,0,0,0,0,1,1,31,6,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_3.cpp,Missing Return Statement,9,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_27.cpp,Missing Header Include,7,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,17,1,0,0,0,1,1,0,0,0,0,0,0,2
+missing_header_16.cpp,Missing Header Include,6,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,32,0,1,0,0,0,0,0,1,0,0,0,0,0
+unmatched_parens_24_aug193.cpp,Unmatched Parentheses,7,33,1,0,0,0,0,0,0,0,0,1,0,1,31,6,23,1,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_24_aug791.cpp,Type Mismatch,5,15,0,0,0,0,1,0,0,0,0,0,0,0,51,7,21,1,1,1,1,0,0,1,0,0,0,0,2,0
+undeclared_20.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,55,0,0,0,0,1,1,0,1,1,0,0,0,2
+missing_header_19.cpp,Missing Header Include,6,25,0,1,0,0,0,0,0,0,0,0,0,0,37,7,44,0,1,0,0,1,1,1,0,0,0,0,0,2
+missing_header_22.cpp,Missing Header Include,8,31,0,1,0,0,0,0,0,0,0,0,0,0,40,7,53,0,0,0,0,3,3,0,0,0,0,0,0,6
+undeclared_20_aug824.cpp,Undeclared Variable,10,6,0,1,0,0,0,0,0,0,0,0,0,0,41,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+undeclared_5_aug488.cpp,Undeclared Variable,4,3,0,1,0,0,0,0,0,0,0,0,0,0,47,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_25_aug740.cpp,Unmatched Parentheses,10,15,1,0,0,0,0,0,0,0,0,1,0,1,31,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_3.cpp,Missing Return Statement,6,12,0,0,0,0,0,0,0,0,0,0,0,0,43,4,21,1,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_7.cpp,Unmatched Braces,8,5,0,0,0,1,0,0,0,0,0,0,0,0,27,6,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_3.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_23.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_27.cpp,Unmatched Parentheses,6,27,1,0,1,0,0,0,0,0,0,1,0,1,29,5,49,0,1,0,0,2,1,1,0,0,0,1,0,3
+type_mismatch_21_aug738.cpp,Type Mismatch,1,11,0,0,0,0,1,0,0,0,0,0,0,0,62,9,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_25.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_23.cpp,Unmatched Braces,14,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_14_aug662.cpp,Missing Return Statement,6,2,0,0,0,1,0,1,0,0,0,0,0,0,66,8,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_26.cpp,Missing Header Include,6,9,1,0,1,0,0,0,0,0,0,0,0,0,40,4,40,0,1,0,0,0,0,0,1,0,0,0,0,0
+missing_header_18.cpp,Missing Header Include,6,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,37,0,1,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_25_aug788.cpp,Type Mismatch,7,18,0,0,0,1,1,0,0,0,0,0,0,0,60,8,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_17.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,36,0,0,0,0,0,0,1,0,1,0,0,0,0
+undeclared_22.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,41,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_return_23_aug316.cpp,Missing Return Statement,8,18,0,0,0,0,0,0,0,0,0,0,0,0,44,4,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_19.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,54,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_parens_12.cpp,Unmatched Parentheses,7,25,1,0,1,0,0,0,0,0,0,1,0,1,29,5,53,0,1,0,0,2,1,1,0,0,0,1,0,3
+unmatched_parens_19_aug805.cpp,Unmatched Parentheses,1,32,1,0,1,0,0,0,0,0,0,1,0,1,35,6,28,0,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_8.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,36,7,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_5.cpp,Type Mismatch,7,11,0,0,0,0,1,0,0,0,0,0,0,0,54,7,39,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_25_aug919.cpp,Missing Return Statement,7,3,0,0,0,1,0,1,0,0,0,0,0,0,66,8,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_2.cpp,Unmatched Parentheses,6,28,1,0,1,0,0,0,0,0,0,1,0,1,29,5,56,0,1,0,0,1,0,1,0,0,0,1,0,1
+type_mismatch_25.cpp,Type Mismatch,6,15,0,0,0,0,1,0,0,0,0,0,0,0,55,7,37,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_parens_10.cpp,Unmatched Parentheses,7,22,1,0,1,0,0,0,0,0,0,1,0,1,29,5,50,0,0,0,0,1,0,1,0,0,0,1,0,1
+type_mismatch_10_aug936.cpp,Type Mismatch,8,16,0,0,0,1,1,0,0,0,0,0,0,0,66,9,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_header_22_aug887.cpp,Missing Header Include,12,28,0,1,0,0,0,0,0,0,0,0,0,0,49,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_21.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,41,7,45,0,1,0,0,0,0,1,0,1,0,0,0,0
+type_mismatch_8.cpp,Type Mismatch,8,9,0,0,0,0,1,0,0,0,0,0,0,0,51,8,44,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_semicolon_24.cpp,Missing Semicolon,7,21,0,1,0,0,0,0,0,0,0,0,0,0,38,7,30,1,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_18_aug774.cpp,Type Mismatch,7,13,0,0,0,0,1,0,0,0,0,0,0,0,58,8,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_13.cpp,Missing Semicolon,6,15,0,0,0,0,0,0,0,0,0,0,0,0,41,4,41,0,1,0,0,0,0,1,0,0,0,0,0,0
+invalid_decl_3.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,59,0,1,0,0,0,0,1,0,1,0,0,0,0
+type_mismatch_20_aug719.cpp,Type Mismatch,5,8,0,0,0,1,0,0,0,0,0,0,0,0,66,10,13,1,1,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_15.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_6_aug535.cpp,Unmatched Parentheses,11,4,1,0,0,0,0,1,0,0,0,0,0,0,41,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_30_aug380.cpp,Unmatched Parentheses,7,39,1,0,0,0,0,0,0,0,0,0,1,1,31,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_3.cpp,Type Mismatch,7,11,0,0,0,1,0,0,0,0,0,0,0,0,54,9,36,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_8.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,0,1,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_11_aug807.cpp,Type Mismatch,3,8,0,0,0,0,0,0,0,0,0,0,0,0,39,4,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_9_aug170.cpp,Type Mismatch,2,21,0,0,0,0,1,0,0,0,0,0,0,0,50,7,19,0,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_parens_14.cpp,Unmatched Parentheses,5,23,1,0,1,0,0,0,0,0,0,1,0,1,29,5,45,0,1,0,0,1,0,1,0,0,0,1,0,1
+invalid_decl_2.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,38,7,22,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_parens_16.cpp,Unmatched Parentheses,6,17,1,0,1,0,0,0,0,0,0,0,1,1,29,5,39,0,0,1,0,1,0,0,1,0,1,1,1,1
+invalid_decl_4.cpp,Invalid Syntax in Declarations,8,15,0,0,0,1,0,0,0,0,0,0,0,0,44,9,17,1,1,0,0,0,0,1,0,0,0,0,0,0
+invalid_decl_24.cpp,Invalid Syntax in Declarations,5,16,0,0,0,1,0,0,0,0,0,0,0,0,44,9,46,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_16.cpp,Missing Return Statement,9,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_20.cpp,Unmatched Parentheses,6,5,1,0,1,0,0,1,0,0,0,0,0,0,39,4,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+undeclared_14_aug324.cpp,Undeclared Variable,4,11,0,0,0,0,0,0,0,0,0,0,0,0,43,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_30.cpp,Unmatched Braces,13,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_9.cpp,Invalid Syntax in Declarations,6,22,0,0,0,1,0,0,0,0,0,0,0,0,44,9,44,0,1,0,0,0,0,1,0,1,0,0,0,0
+undeclared_28.cpp,Undeclared Variable,7,5,0,1,0,0,0,0,0,0,0,0,0,0,43,7,53,0,0,0,0,0,0,1,0,1,0,0,0,0
+invalid_decl_20.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,39,7,23,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_18.cpp,Invalid Syntax in Declarations,5,13,0,0,0,1,0,0,0,0,0,0,0,0,44,9,41,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_semicolon_20.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,21,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_header_14.cpp,Missing Header Include,7,15,1,0,1,0,0,0,0,0,0,0,0,0,44,5,43,0,1,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_3_aug869.cpp,Type Mismatch,3,14,0,0,0,1,0,0,0,0,0,0,0,0,64,10,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_20_aug966.cpp,Type Mismatch,8,12,0,0,0,1,0,0,0,0,0,0,0,0,66,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_30.cpp,Missing Header Include,6,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,41,0,0,0,0,1,1,0,1,0,0,0,0,2
+missing_semicolon_10.cpp,Missing Semicolon,6,23,0,0,0,0,0,0,0,0,0,0,0,0,39,4,45,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_2_aug514.cpp,Unmatched Braces,8,11,1,0,0,0,0,0,0,0,0,0,1,0,28,6,33,0,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_20.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,57,0,1,0,0,0,0,1,0,1,0,0,0,0
+undeclared_12.cpp,Undeclared Variable,6,9,0,1,0,0,0,0,0,0,0,0,0,0,34,7,46,0,0,1,0,1,1,1,1,1,1,0,1,2
+unmatched_braces_21_aug336.cpp,Unmatched Braces,15,3,1,0,0,0,0,0,0,0,0,0,1,0,28,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_30.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,21,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_12.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,57,0,1,0,0,0,0,1,0,1,0,0,0,0
+missing_return_18.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_30.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,36,7,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_17.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,37,7,21,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_parens_19_aug277.cpp,Unmatched Parentheses,8,30,1,0,0,0,0,0,0,0,0,1,0,1,31,6,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_7.cpp,Unmatched Parentheses,6,25,1,0,1,0,0,0,0,0,0,1,0,1,29,5,53,0,1,0,0,2,1,1,0,0,0,1,0,3
+invalid_decl_11.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,54,0,1,0,0,0,0,1,0,1,0,0,0,0
+missing_return_8_aug102.cpp,Missing Return Statement,4,2,0,0,0,1,0,1,0,0,0,0,0,0,66,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_28.cpp,Unmatched Parentheses,5,32,1,0,1,0,0,0,0,0,0,0,1,1,29,5,54,0,1,1,0,1,0,1,1,0,1,1,1,1
+missing_header_1.cpp,Missing Header Include,6,30,0,1,0,0,0,0,0,0,0,0,0,0,37,7,52,0,0,0,0,0,0,0,1,1,0,0,0,0
+missing_return_14.cpp,Missing Return Statement,7,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_9.cpp,Unmatched Braces,6,31,1,0,1,0,0,0,0,0,0,1,1,0,29,5,63,0,1,1,0,0,0,1,0,0,1,0,1,0
+undeclared_6.cpp,Undeclared Variable,6,13,0,1,0,0,0,0,0,0,0,0,0,0,40,7,51,0,0,0,0,0,0,0,1,1,0,0,0,0
+invalid_decl_23.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,58,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_braces_19_aug460.cpp,Unmatched Braces,15,3,1,0,0,0,0,0,0,0,0,0,1,0,28,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_27.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,33,1,0,0,0,0,0,0,1,1,0,0,0,0
+invalid_decl_21.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,38,7,22,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_13.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,40,7,68,0,1,0,0,0,0,1,0,1,0,0,0,0
+undeclared_27_aug185.cpp,Undeclared Variable,7,12,0,1,0,0,0,0,0,0,0,0,0,0,41,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_13.cpp,Missing Return Statement,13,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_27.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,40,7,37,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_semicolon_15.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,41,1,0,0,0,0,0,0,1,1,0,0,0,0
+undeclared_14_aug561.cpp,Undeclared Variable,12,11,0,1,0,0,0,0,0,0,0,0,0,0,47,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_2.cpp,Missing Return Statement,6,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_17.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_25.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,31,1,0,0,0,0,0,0,1,1,0,0,0,0
+missing_semicolon_22.cpp,Missing Semicolon,5,10,0,0,0,0,0,0,0,0,0,0,0,0,44,4,17,0,1,0,0,0,0,1,0,1,0,0,0,0
+missing_semicolon_1.cpp,Missing Semicolon,6,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,32,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_23_aug355.cpp,Missing Return Statement,4,1,0,0,0,1,0,1,1,0,0,0,0,0,59,8,28,0,1,1,0,1,1,0,0,0,1,0,1,2
+missing_header_20_aug612.cpp,Missing Header Include,2,21,0,0,0,1,0,0,0,0,0,0,0,0,74,10,29,0,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_8.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,0,0,32,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_11.cpp,Type Mismatch,7,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_14.cpp,Type Mismatch,5,15,0,0,0,0,1,0,0,0,0,0,0,0,57,8,38,0,1,0,0,0,0,1,0,1,0,0,0,0
+undeclared_26_aug741.cpp,Undeclared Variable,10,3,0,1,0,0,0,0,0,0,0,0,0,0,46,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_9.cpp,Missing Return Statement,9,9,0,0,0,0,0,0,0,0,0,0,0,0,44,4,34,1,1,0,0,1,1,1,0,0,0,0,0,2
+missing_header_17_aug649.cpp,Missing Header Include,9,14,1,0,1,0,0,0,0,0,0,0,0,0,46,5,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_14.cpp,Missing Header Include,7,17,1,0,1,0,0,0,0,0,0,0,0,0,40,4,43,0,1,0,0,0,0,0,1,0,0,0,0,0
+missing_semicolon_9.cpp,Missing Semicolon,8,30,0,1,0,0,0,0,0,0,0,0,0,0,39,7,49,1,0,0,0,0,0,0,1,1,0,0,0,0
+missing_semicolon_2.cpp,Missing Semicolon,8,5,1,0,1,0,0,0,0,0,0,1,0,0,32,6,14,1,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_parens_21_aug553.cpp,Unmatched Parentheses,6,11,1,0,1,0,0,0,0,0,0,0,1,1,35,6,38,1,0,0,0,0,0,0,1,1,0,0,0,0
+type_mismatch_8_aug540.cpp,Type Mismatch,9,7,0,0,0,0,1,0,0,0,0,0,0,0,51,8,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_9_aug434.cpp,Type Mismatch,4,21,0,0,0,0,1,0,0,0,0,0,0,0,50,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_14.cpp,Missing Return Statement,5,9,0,0,0,0,0,0,0,0,0,0,0,0,44,4,19,1,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_parens_17.cpp,Unmatched Parentheses,5,31,1,0,1,0,0,0,0,0,0,0,1,1,29,5,53,0,1,1,0,1,0,1,1,0,1,1,1,1
+missing_semicolon_10.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,26,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_header_28.cpp,Missing Header Include,6,47,0,1,0,0,0,0,0,0,0,0,0,0,43,7,67,0,1,0,0,1,1,1,1,1,0,0,0,2
+missing_semicolon_12.cpp,Missing Semicolon,8,12,0,1,0,0,0,0,0,0,0,0,0,0,38,7,13,1,0,0,0,0,0,1,0,0,0,0,0,0
+unmatched_parens_8.cpp,Unmatched Parentheses,6,14,1,0,1,0,0,0,0,0,0,0,1,1,29,5,42,0,0,1,0,1,0,0,0,0,1,1,1,1
+unmatched_braces_18.cpp,Unmatched Braces,11,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_24.cpp,Missing Header Include,6,25,0,1,0,0,0,0,0,0,0,0,0,0,38,7,45,0,1,0,0,1,1,1,0,0,0,0,0,2
+type_mismatch_3_aug494.cpp,Type Mismatch,11,14,0,0,0,1,0,0,0,0,0,0,0,0,49,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_18.cpp,Missing Semicolon,5,19,0,0,0,0,0,0,0,0,0,0,0,0,42,4,22,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_1.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_7.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,31,6,10,0,0,1,0,1,1,0,0,0,1,0,1,2
+type_mismatch_27.cpp,Type Mismatch,6,9,0,0,0,0,1,0,0,0,0,0,0,0,56,9,29,0,1,0,0,0,0,1,0,1,0,0,0,0
+missing_header_17.cpp,Missing Header Include,7,5,0,1,0,0,0,0,0,0,0,0,0,0,34,7,10,1,0,0,0,1,1,0,0,0,0,0,0,2
+unmatched_braces_14_aug558.cpp,Unmatched Braces,13,4,1,0,0,0,0,0,0,0,0,0,1,0,28,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_13.cpp,Type Mismatch,8,23,0,0,0,1,1,0,0,0,0,0,0,0,112,10,54,0,1,0,0,0,0,1,0,0,0,0,0,0
+undeclared_2.cpp,Undeclared Variable,7,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,41,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_return_2.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_19.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,0,1,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_26.cpp,Unmatched Braces,5,31,1,0,1,0,0,0,0,0,0,1,1,0,29,5,67,0,1,1,0,0,0,1,0,0,1,0,1,0
+undeclared_24.cpp,Undeclared Variable,6,13,0,1,0,0,0,0,0,0,0,0,0,0,38,7,47,0,0,0,0,0,0,0,1,1,0,0,0,0
+unmatched_parens_6.cpp,Unmatched Parentheses,7,5,0,0,0,1,0,0,0,0,0,0,0,0,27,6,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_return_3_aug985.cpp,Missing Return Statement,13,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_20.cpp,Unmatched Parentheses,7,1,1,0,1,0,0,0,0,0,0,0,1,0,37,5,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+undeclared_24.cpp,Undeclared Variable,5,9,0,0,0,0,0,0,0,0,0,0,0,0,43,4,15,1,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_7.cpp,Type Mismatch,8,13,0,0,0,0,1,0,0,0,0,0,0,0,61,8,39,0,1,0,0,0,0,1,0,1,0,0,0,0
+type_mismatch_30_aug283.cpp,Type Mismatch,4,12,0,0,0,0,1,0,0,0,0,0,0,0,51,7,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+unmatched_braces_13.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_26.cpp,Invalid Syntax in Declarations,5,11,0,1,0,0,0,0,0,0,0,0,0,0,36,7,43,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_semicolon_5.cpp,Missing Semicolon,8,5,1,0,1,0,0,0,0,0,0,1,1,0,29,5,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_7.cpp,Missing Return Statement,10,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_26_aug199.cpp,Missing Header Include,5,3,0,1,0,0,0,0,0,0,0,0,0,0,43,7,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+undeclared_14.cpp,Undeclared Variable,6,10,0,0,0,0,0,0,0,0,0,0,0,0,43,4,17,1,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_parens_1.cpp,Unmatched Parentheses,6,14,1,0,1,0,0,0,0,0,0,0,1,1,29,5,42,0,0,1,0,1,0,0,1,0,1,1,1,1
+unmatched_braces_19.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_1.cpp,Missing Header Include,6,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,52,0,0,0,0,0,0,0,1,1,0,0,0,0
+missing_return_15.cpp,Missing Return Statement,5,12,0,0,0,0,0,0,0,0,0,0,0,0,42,4,30,1,1,0,0,0,0,1,0,0,0,0,0,0
+undeclared_11_aug546.cpp,Undeclared Variable,9,6,0,1,0,0,0,0,0,0,0,0,0,0,38,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+undeclared_7.cpp,Undeclared Variable,7,11,0,1,0,0,0,0,0,0,0,0,0,0,40,7,47,0,0,1,0,1,1,0,1,1,1,0,1,2
+invalid_decl_12.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,36,7,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_27_aug242.cpp,Invalid Syntax in Declarations,5,16,0,1,0,0,0,0,0,0,0,0,0,0,40,8,37,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_return_9_aug600.cpp,Missing Return Statement,7,12,0,0,0,0,0,0,0,0,0,0,0,0,44,4,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_22.cpp,Unmatched Parentheses,6,29,1,0,1,0,0,0,0,0,0,1,0,1,29,5,51,0,1,0,0,2,1,1,0,0,0,1,0,3
+missing_semicolon_15.cpp,Missing Semicolon,6,18,0,0,0,0,0,0,0,0,0,0,0,0,46,4,49,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_semicolon_11.cpp,Missing Semicolon,6,9,0,0,0,0,0,0,0,0,0,0,0,0,43,4,35,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_semicolon_23.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,25,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_return_9_aug789.cpp,Missing Return Statement,15,3,0,0,0,1,0,1,1,0,0,0,0,0,71,9,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_26.cpp,Missing Semicolon,5,9,0,0,0,0,0,0,0,0,0,0,0,0,42,4,15,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_19.cpp,Unmatched Braces,10,1,1,0,0,1,0,0,0,0,0,0,0,0,39,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_14.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_header_1_aug482.cpp,Missing Header Include,4,33,0,1,0,0,0,0,0,0,0,0,0,0,41,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_1.cpp,Missing Return Statement,10,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_21.cpp,Missing Header Include,7,23,0,1,0,0,0,0,0,0,0,0,0,0,39,7,44,0,1,0,0,1,1,1,0,0,0,0,0,2
+invalid_decl_27.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,36,7,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_8.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,0,0,43,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_19.cpp,Missing Semicolon,5,11,0,0,0,0,0,0,0,0,0,0,0,0,49,4,24,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_19_aug669.cpp,Unmatched Braces,13,3,1,0,0,0,0,0,0,0,0,0,0,1,28,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_24.cpp,Unmatched Braces,9,1,1,0,1,0,0,0,0,0,0,0,1,0,37,5,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_24.cpp,Unmatched Braces,6,5,1,0,1,0,0,0,0,0,0,0,0,0,33,4,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+missing_semicolon_6.cpp,Missing Semicolon,6,9,0,0,0,0,0,0,0,0,0,0,0,0,41,4,50,0,1,1,1,0,0,1,0,0,0,0,2,0
+missing_return_10_aug533.cpp,Missing Return Statement,13,3,0,0,0,1,0,1,0,0,0,0,0,0,66,8,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_16_aug856.cpp,Unmatched Braces,7,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,37,0,0,0,0,0,0,0,0,0,0,0,0,0
+undeclared_26.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,42,7,47,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_semicolon_30.cpp,Missing Semicolon,5,19,0,0,0,0,0,0,0,0,0,0,0,0,42,4,24,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_header_27.cpp,Missing Header Include,6,10,1,0,1,0,0,0,0,0,0,0,0,0,40,4,36,0,1,0,0,0,0,0,1,0,0,0,0,0
+missing_semicolon_10.cpp,Missing Semicolon,6,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,45,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_semicolon_18.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,28,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_5.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_7_aug782.cpp,Type Mismatch,11,14,0,0,0,1,1,0,0,0,0,0,0,0,66,9,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_10.cpp,Missing Semicolon,6,16,0,0,0,0,0,0,0,0,0,0,0,0,39,4,45,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_5_aug444.cpp,Unmatched Braces,14,4,1,0,0,0,0,0,0,0,0,0,1,0,28,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_23.cpp,Missing Return Statement,6,15,0,0,0,0,0,0,0,0,0,0,0,0,44,4,38,1,1,0,0,1,1,1,0,0,0,0,0,2
+missing_header_2_aug266.cpp,Missing Header Include,5,30,0,1,0,0,0,0,0,0,0,0,0,0,41,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_4.cpp,Missing Header Include,7,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,41,0,1,0,0,0,0,0,1,0,0,0,0,0
+missing_semicolon_1.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,31,1,0,0,0,0,0,0,1,1,0,0,0,0
+undeclared_15.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,38,0,0,0,0,0,0,1,0,1,0,0,0,0
+unmatched_braces_13.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_4.cpp,Missing Header Include,7,12,1,0,1,0,0,0,0,0,0,0,0,0,40,4,41,0,1,0,0,0,0,0,1,0,0,0,0,0
+unmatched_parens_6.cpp,Unmatched Parentheses,5,9,0,0,0,0,0,0,0,0,0,0,0,0,47,8,43,0,1,1,0,1,0,0,0,0,1,1,1,1
+missing_return_22.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_26.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,33,1,0,0,0,0,0,0,1,1,0,0,0,0
+missing_semicolon_8.cpp,Missing Semicolon,6,10,0,0,0,0,0,0,0,0,0,0,0,0,43,4,38,0,1,0,0,0,0,1,0,1,0,0,0,0
+undeclared_21.cpp,Undeclared Variable,5,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,40,0,0,0,0,0,0,1,0,1,0,0,0,0
+type_mismatch_20_aug529.cpp,Type Mismatch,8,10,0,0,0,1,0,0,0,0,0,0,0,0,51,9,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_25.cpp,Unmatched Braces,11,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_7_aug933.cpp,Unmatched Parentheses,8,27,1,0,1,0,0,0,0,0,0,1,0,1,35,6,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_27.cpp,Unmatched Braces,11,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_11_aug649.cpp,Missing Return Statement,14,8,0,0,0,0,0,0,0,0,0,0,0,0,40,4,19,0,1,1,0,1,1,0,0,0,1,0,1,2
+unmatched_parens_8_aug403.cpp,Unmatched Parentheses,10,17,1,0,0,0,0,0,0,0,0,0,1,1,31,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_24.cpp,Missing Return Statement,10,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_9_aug508.cpp,Missing Return Statement,4,12,0,0,0,0,0,0,0,0,0,0,0,0,44,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_28.cpp,Type Mismatch,6,9,0,0,0,0,1,0,0,0,0,0,0,0,67,9,39,0,1,0,0,0,0,1,0,1,0,0,0,0
+type_mismatch_15_aug142.cpp,Type Mismatch,4,13,0,0,0,1,1,0,0,0,0,0,0,0,60,8,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+type_mismatch_24.cpp,Type Mismatch,6,16,0,0,0,0,1,0,0,0,0,0,0,0,51,7,35,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_28.cpp,Missing Return Statement,11,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_11_aug985.cpp,Type Mismatch,9,16,0,0,0,1,1,0,0,0,0,0,0,0,60,8,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_20.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_14_aug975.cpp,Missing Header Include,6,12,1,0,0,0,0,0,0,0,0,0,0,0,46,6,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+missing_header_4_aug710.cpp,Missing Header Include,10,2,0,1,0,0,0,0,0,0,0,0,0,0,41,7,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_22.cpp,Unmatched Braces,14,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_6.cpp,Unmatched Parentheses,8,5,1,0,1,0,0,1,0,0,0,0,0,0,39,4,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_6_aug195.cpp,Invalid Syntax in Declarations,5,8,0,1,0,0,0,0,0,0,0,0,0,0,43,8,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+undeclared_10_aug841.cpp,Undeclared Variable,10,6,0,1,0,0,0,0,0,0,0,0,0,0,42,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_24.cpp,Unmatched Parentheses,6,30,1,0,1,0,0,0,0,0,0,1,0,1,29,5,52,0,0,0,0,2,1,1,0,0,0,1,0,3
+missing_return_15.cpp,Missing Return Statement,7,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_24.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,32,6,14,1,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_6.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_10_aug151.cpp,Missing Return Statement,10,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+undeclared_24_aug861.cpp,Undeclared Variable,10,15,0,1,0,0,0,0,0,0,0,0,0,0,41,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_16_aug288.cpp,Unmatched Parentheses,7,19,1,0,1,0,0,0,0,0,0,0,1,1,35,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_9.cpp,Unmatched Parentheses,6,29,1,0,1,0,0,0,0,0,0,0,1,1,29,5,57,0,0,1,0,3,2,0,1,0,1,1,1,5
+undeclared_11.cpp,Undeclared Variable,7,5,0,1,0,0,0,0,0,0,0,0,0,0,34,7,31,0,0,0,0,0,0,1,0,1,0,0,0,0
+type_mismatch_7_aug103.cpp,Type Mismatch,7,16,0,0,0,1,1,0,0,0,0,0,0,0,66,9,70,0,1,0,0,1,1,1,0,1,0,0,0,2
+missing_semicolon_18.cpp,Missing Semicolon,5,9,0,0,0,0,0,0,0,0,0,0,0,0,42,4,22,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_5.cpp,Missing Return Statement,13,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_6.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,23,1,0,0,0,0,0,0,1,0,0,0,0,0
+undeclared_30.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,41,7,57,0,0,0,0,1,1,1,0,1,0,0,0,2
+undeclared_10.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,39,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_return_18.cpp,Missing Return Statement,6,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,40,1,1,0,0,2,2,1,0,0,0,0,0,4
+missing_return_20.cpp,Missing Return Statement,11,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_4.cpp,Unmatched Parentheses,6,31,1,0,1,0,0,0,0,0,0,0,1,1,29,5,59,0,1,1,0,1,0,1,1,0,1,1,1,1
+type_mismatch_29.cpp,Type Mismatch,6,15,0,0,0,0,1,0,0,0,0,0,0,0,55,7,36,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_23_aug403.cpp,Missing Return Statement,11,14,0,0,0,0,0,0,0,0,0,0,0,0,44,4,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_21.cpp,Unmatched Parentheses,5,14,1,0,1,0,0,0,0,0,0,0,1,1,29,5,36,0,0,1,0,1,0,0,0,0,1,1,1,1
+missing_return_26.cpp,Missing Return Statement,11,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_2.cpp,Unmatched Braces,9,13,1,0,0,0,0,0,0,0,0,0,1,0,28,6,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_28_aug726.cpp,Type Mismatch,8,7,0,0,0,0,1,0,0,0,0,0,0,0,63,9,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_12.cpp,Missing Return Statement,11,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_18_aug801.cpp,Missing Header Include,5,7,0,1,0,0,0,0,0,0,0,0,0,0,38,7,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+unmatched_parens_15.cpp,Unmatched Parentheses,5,24,1,0,1,0,0,0,0,0,0,0,1,1,29,5,46,0,0,1,0,1,0,0,1,0,1,1,1,1
+missing_return_30.cpp,Missing Return Statement,5,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,18,1,1,0,0,0,0,1,0,0,0,0,0,0
+missing_header_4_aug384.cpp,Missing Header Include,11,11,1,0,1,0,0,0,0,0,0,0,0,0,46,5,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_30.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,43,0,0,0,0,0,0,1,0,1,0,0,0,0
+undeclared_28_aug210.cpp,Undeclared Variable,4,2,0,1,0,0,0,0,0,0,0,0,0,0,52,7,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+missing_header_14.cpp,Missing Header Include,7,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,43,0,1,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_19.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_26.cpp,Missing Header Include,6,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,40,0,1,0,0,0,0,0,1,0,0,0,0,0
+undeclared_18.cpp,Undeclared Variable,5,5,0,1,0,0,0,0,0,0,0,0,0,0,40,7,43,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_semicolon_27.cpp,Missing Semicolon,5,11,0,0,0,0,0,0,0,0,0,0,0,0,42,4,17,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_19_aug935.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,0,0,0,0,0,0,60,8,28,0,0,0,0,0,0,0,1,0,0,0,0,0
+missing_semicolon_16.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,31,1,0,0,0,0,0,0,1,1,0,0,0,0
+invalid_decl_15.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,36,7,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_26.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,43,0,0,0,0,0,0,1,0,1,0,0,0,0
+invalid_decl_22.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,36,7,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_semicolon_2.cpp,Missing Semicolon,6,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,10,1,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_9.cpp,Missing Return Statement,11,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_25_aug270.cpp,Missing Return Statement,3,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_26.cpp,Unmatched Parentheses,6,14,1,0,1,0,0,0,0,0,0,0,1,1,29,5,36,0,0,1,0,1,0,0,1,0,1,1,1,1
+type_mismatch_26.cpp,Type Mismatch,7,13,0,0,0,0,1,0,0,0,0,0,0,0,103,9,31,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_header_30.cpp,Missing Header Include,6,20,0,1,0,0,0,0,0,0,0,0,0,0,34,7,41,0,0,0,0,1,1,0,1,0,0,0,0,2
+invalid_decl_6.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,61,0,1,0,0,0,0,1,0,1,0,0,0,0
+undeclared_16.cpp,Undeclared Variable,5,5,0,1,0,0,0,0,0,0,0,0,0,0,40,7,42,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_header_16_aug505.cpp,Missing Header Include,5,8,0,1,0,0,0,0,0,0,0,0,0,0,45,7,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+missing_header_10_aug261.cpp,Missing Header Include,4,20,0,0,0,1,0,0,0,0,0,0,0,0,65,8,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_23.cpp,Missing Semicolon,5,10,0,0,0,0,0,0,0,0,0,0,0,0,46,4,24,0,1,0,0,0,0,1,0,0,0,0,0,0
+invalid_decl_29.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,35,7,19,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_return_21_aug330.cpp,Missing Return Statement,13,4,0,0,0,1,0,1,1,0,0,0,0,0,68,9,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_10.cpp,Type Mismatch,7,15,0,0,0,0,1,0,0,0,0,0,0,0,61,8,43,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_19.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,0,1,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+undeclared_27.cpp,Undeclared Variable,5,13,0,1,0,0,0,0,0,0,0,0,0,0,38,7,47,0,0,0,0,0,0,0,1,1,0,0,0,0
+type_mismatch_5_aug370.cpp,Type Mismatch,2,14,0,0,0,1,1,0,0,0,0,0,0,0,59,8,19,0,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_11.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,42,7,26,1,0,0,0,0,0,0,1,0,0,0,0,0
+undeclared_29.cpp,Undeclared Variable,5,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,41,0,0,0,0,0,0,1,0,1,0,0,0,0
+undeclared_27_aug517.cpp,Undeclared Variable,1,10,0,1,0,0,0,0,0,0,0,0,0,0,47,7,26,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_7.cpp,Missing Header Include,7,24,0,1,0,0,0,0,0,0,0,0,0,0,37,7,43,0,0,0,0,1,1,1,0,0,0,0,0,2
+type_mismatch_30.cpp,Type Mismatch,6,14,0,0,0,0,1,0,0,0,0,0,0,0,51,7,37,0,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_10_aug710.cpp,Type Mismatch,8,16,0,0,0,1,1,0,0,0,0,0,0,0,66,9,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_16.cpp,Type Mismatch,6,9,0,0,0,0,1,0,0,0,0,0,0,0,55,9,45,0,1,0,0,0,0,1,0,1,0,0,0,0
+missing_semicolon_2.cpp,Missing Semicolon,7,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,32,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_header_4.cpp,Missing Header Include,8,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,19,1,0,0,0,1,1,0,0,0,0,0,0,2
+unmatched_braces_24.cpp,Unmatched Braces,7,5,0,0,0,1,0,0,0,0,0,0,0,0,27,6,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_20.cpp,Type Mismatch,6,11,0,0,0,1,0,0,0,0,0,0,0,0,56,9,32,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_header_10.cpp,Missing Header Include,7,18,0,0,0,1,0,0,0,0,0,0,0,0,65,8,52,0,0,0,0,1,1,0,0,1,0,0,0,2
+invalid_decl_4.cpp,Invalid Syntax in Declarations,9,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_24.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_10.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_19.cpp,Unmatched Parentheses,6,33,1,0,1,0,0,0,0,0,0,1,0,1,29,5,55,0,1,0,0,2,0,1,0,0,0,2,0,2
+missing_semicolon_7.cpp,Missing Semicolon,6,10,0,0,0,0,0,0,0,0,0,0,0,0,42,4,38,0,1,0,0,0,0,1,0,0,0,0,0,0
+undeclared_17_aug378.cpp,Undeclared Variable,8,3,0,1,0,0,0,0,0,0,0,0,0,0,40,7,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_22.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,43,0,1,0,0,0,0,1,0,1,0,0,0,0
+missing_return_16_aug132.cpp,Missing Return Statement,7,1,0,0,0,1,0,1,1,0,0,0,0,0,68,9,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_9.cpp,Type Mismatch,7,18,0,0,0,0,1,0,0,0,0,0,0,0,54,7,48,0,1,0,0,0,0,1,0,0,0,0,0,0
+undeclared_5.cpp,Undeclared Variable,8,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,39,0,0,0,0,0,0,1,0,1,0,0,0,0
+unmatched_braces_21.cpp,Unmatched Braces,11,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_17.cpp,Missing Semicolon,5,12,0,0,0,0,0,0,0,0,0,0,0,0,44,4,23,0,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_21_aug459.cpp,Type Mismatch,8,11,0,0,0,0,1,0,0,0,0,0,0,0,62,9,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_6.cpp,Missing Return Statement,9,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_11.cpp,Missing Header Include,7,29,0,1,0,0,0,0,0,0,0,0,0,0,36,7,47,0,1,0,0,1,1,1,0,0,0,0,0,2
+missing_return_4.cpp,Missing Return Statement,12,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_return_27.cpp,Missing Return Statement,9,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_16_aug860.cpp,Unmatched Braces,11,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_13.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,41,7,25,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_parens_18.cpp,Unmatched Parentheses,5,26,1,0,1,0,0,0,0,0,0,1,0,1,29,5,48,0,1,0,0,2,1,1,0,0,0,1,0,3
+unmatched_braces_24_aug463.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,1,0,39,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_13.cpp,Missing Header Include,7,33,1,0,1,0,0,0,0,0,0,0,0,0,40,4,72,0,1,0,0,1,1,1,1,0,0,0,0,2
+unmatched_braces_29.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+invalid_decl_16.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,37,7,21,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_semicolon_14.cpp,Missing Semicolon,6,15,0,0,0,0,0,0,0,0,0,0,0,0,44,4,53,0,1,0,0,0,0,1,0,0,0,0,0,0
+invalid_decl_29.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,36,0,0,0,0,0,0,1,0,1,0,0,0,0
+missing_return_3_aug345.cpp,Missing Return Statement,5,14,0,0,0,0,0,0,0,0,0,0,0,0,43,4,19,0,1,1,0,1,1,0,0,0,1,0,1,2
+undeclared_25_aug885.cpp,Undeclared Variable,2,2,0,1,0,0,0,0,0,0,0,0,0,0,42,7,19,0,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_14_aug865.cpp,Type Mismatch,3,12,0,0,0,0,1,0,0,0,0,0,0,0,57,8,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_21.cpp,Type Mismatch,6,9,0,0,0,0,1,0,0,0,0,0,0,0,66,9,32,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_braces_19.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,0,0,32,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+type_mismatch_21_aug661.cpp,Type Mismatch,10,6,0,0,0,0,1,0,0,0,0,0,0,0,62,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_1_aug632.cpp,Type Mismatch,2,7,0,0,0,1,1,0,0,0,0,0,0,0,66,9,19,0,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_parens_23.cpp,Unmatched Parentheses,5,41,1,0,1,0,0,0,0,0,0,1,0,1,29,5,63,0,1,0,0,2,1,1,0,0,0,1,0,3
+undeclared_13.cpp,Undeclared Variable,7,12,0,0,0,0,0,0,0,0,0,0,0,0,48,4,30,1,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_11.cpp,Type Mismatch,8,13,0,0,0,0,1,0,0,0,0,0,0,0,55,7,46,0,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_15.cpp,Type Mismatch,6,15,0,0,0,0,1,0,0,0,0,0,0,0,55,7,32,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_25.cpp,Unmatched Braces,8,12,0,0,1,0,0,0,0,0,0,0,1,0,58,9,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+undeclared_7_aug872.cpp,Undeclared Variable,4,6,0,0,0,0,0,0,0,0,0,0,0,0,39,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+undeclared_25.cpp,Undeclared Variable,5,5,0,1,0,0,0,0,0,0,0,0,0,0,39,7,38,0,0,0,0,0,0,1,0,1,0,0,0,0
+unmatched_parens_26_aug823.cpp,Unmatched Parentheses,11,12,1,0,1,0,0,0,0,0,0,0,1,1,35,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+undeclared_18_aug229.cpp,Undeclared Variable,4,4,0,1,0,0,0,0,0,0,0,0,0,0,44,8,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+unmatched_braces_4.cpp,Unmatched Braces,11,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_6.cpp,Unmatched Parentheses,6,5,1,0,1,0,0,0,0,0,0,0,0,1,25,4,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_12.cpp,Unmatched Braces,10,13,1,0,0,0,0,0,0,0,0,0,1,0,28,6,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_8.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,35,1,0,0,0,0,0,0,1,1,0,0,0,0
+missing_semicolon_17.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,37,1,0,0,0,0,0,0,1,1,0,0,0,0
+invalid_decl_3.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,35,7,19,1,0,0,0,0,0,0,1,0,0,0,0,0
+type_mismatch_22.cpp,Type Mismatch,7,23,0,0,0,1,1,0,0,0,0,0,0,0,112,10,40,0,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_29_aug620.cpp,Type Mismatch,3,16,0,0,0,1,1,0,0,0,0,0,0,0,60,8,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_29.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,20,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_braces_7.cpp,Unmatched Braces,10,1,1,0,1,0,0,0,0,0,0,0,1,0,37,5,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+undeclared_4.cpp,Undeclared Variable,6,8,0,1,0,0,0,0,0,0,0,0,0,0,37,7,34,0,0,1,0,1,1,0,0,1,1,0,1,2
+missing_return_11.cpp,Missing Return Statement,15,9,0,0,0,0,0,0,0,0,0,0,0,0,40,4,15,1,1,0,0,0,0,1,0,0,0,0,0,0
+invalid_decl_7.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,51,0,1,0,0,0,0,1,0,1,0,0,0,0
+missing_return_6_aug199.cpp,Missing Return Statement,13,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_1.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+undeclared_20_aug349.cpp,Undeclared Variable,1,8,0,1,0,0,0,0,0,0,0,0,0,0,41,7,26,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_23_aug603.cpp,Unmatched Parentheses,6,39,1,0,1,0,0,0,0,0,0,1,0,1,35,6,21,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_5.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,54,0,1,0,0,0,0,1,0,1,0,0,0,0
+type_mismatch_3_aug906.cpp,Type Mismatch,10,8,0,0,0,1,0,0,0,0,0,0,0,0,49,9,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_20.cpp,Missing Header Include,6,18,0,0,0,1,0,0,0,0,0,0,0,0,74,10,46,0,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_1.cpp,Type Mismatch,7,9,0,0,0,0,1,0,0,0,0,0,0,0,61,8,40,0,1,0,0,0,0,1,0,1,0,0,0,0
+invalid_decl_25.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+undeclared_7.cpp,Undeclared Variable,6,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+missing_header_4_aug646.cpp,Missing Header Include,10,13,1,0,0,0,0,0,0,0,0,0,0,0,42,5,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_28.cpp,Missing Header Include,6,24,0,0,0,1,0,0,0,0,0,0,0,0,146,13,67,0,1,0,0,1,1,1,1,1,0,0,0,2
+unmatched_parens_25.cpp,Unmatched Parentheses,7,17,1,0,1,0,0,0,0,0,0,1,0,1,29,5,39,0,0,0,1,1,0,0,0,0,-1,1,1,1
+unmatched_braces_5_aug584.cpp,Unmatched Braces,14,4,1,0,0,0,0,0,0,0,0,0,1,0,28,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+invalid_decl_6.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,37,7,21,1,0,0,0,0,0,0,1,0,0,0,0,0
+unmatched_parens_30.cpp,Unmatched Parentheses,5,38,1,0,1,0,0,0,0,0,0,0,1,1,29,5,60,0,0,1,0,3,2,0,1,0,1,1,1,5
+undeclared_8.cpp,Undeclared Variable,7,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,35,0,0,0,0,0,0,1,0,1,0,0,0,0
+undeclared_17.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,37,0,0,0,0,0,0,1,0,1,0,0,0,0
+invalid_decl_16.cpp,Invalid Syntax in Declarations,5,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,57,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_braces_8.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_header_27.cpp,Missing Header Include,6,5,0,1,0,0,0,0,0,0,0,0,0,0,37,7,36,0,1,0,0,0,0,0,1,0,0,0,0,0
+missing_return_16_aug319.cpp,Missing Return Statement,6,1,0,0,0,1,0,1,1,0,0,0,0,0,59,8,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_braces_14.cpp,Unmatched Braces,11,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_19.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,40,1,0,0,0,0,0,0,1,1,0,0,0,0
+unmatched_parens_19.cpp,Unmatched Parentheses,6,33,1,0,1,0,0,0,0,0,0,1,0,1,29,5,55,0,1,0,0,2,0,1,0,0,0,2,0,2
+unmatched_parens_11_aug712.cpp,Unmatched Parentheses,11,20,1,0,0,0,0,0,0,0,0,1,0,1,31,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_return_30.cpp,Missing Return Statement,8,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_7.cpp,Unmatched Braces,7,5,1,0,1,0,0,0,0,0,0,0,0,0,33,4,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_parens_20_aug205.cpp,Unmatched Parentheses,4,31,1,0,1,0,0,0,0,0,0,1,1,0,35,6,59,0,1,1,0,1,0,0,0,0,1,1,1,1
+unmatched_parens_11.cpp,Unmatched Parentheses,8,18,1,0,1,0,0,0,0,0,0,1,0,1,29,5,46,0,0,0,1,1,0,0,0,0,-1,1,1,1
+undeclared_19.cpp,Undeclared Variable,5,13,0,1,0,0,0,0,0,0,0,0,0,0,37,7,45,0,0,0,0,0,0,0,1,1,0,0,0,0
+invalid_decl_7.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_header_8_aug821.cpp,Missing Header Include,10,35,0,1,0,0,0,0,0,0,0,0,0,0,40,7,24,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_5.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,37,7,21,1,0,0,0,0,0,0,1,0,0,0,0,0
+undeclared_25_aug458.cpp,Undeclared Variable,9,6,0,1,0,0,0,0,0,0,0,0,0,0,43,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_21.cpp,Missing Semicolon,5,10,0,0,0,0,0,0,0,0,0,0,0,0,46,4,21,0,1,0,0,0,0,1,0,0,0,0,0,0
+undeclared_27_aug498.cpp,Undeclared Variable,8,11,0,1,0,0,0,0,0,0,0,0,0,0,47,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_28.cpp,Missing Semicolon,5,16,0,0,0,0,0,0,0,0,0,0,0,0,39,4,16,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_parens_4_aug978.cpp,Unmatched Parentheses,10,33,1,0,0,0,0,0,0,0,0,0,1,1,31,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_28.cpp,Missing Semicolon,6,5,1,0,1,0,0,0,0,0,0,1,0,0,33,6,22,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_semicolon_2.cpp,Missing Semicolon,9,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_9.cpp,Invalid Syntax in Declarations,7,13,0,1,0,0,0,0,0,0,0,0,0,0,34,7,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_4.cpp,Invalid Syntax in Declarations,6,10,0,0,0,0,0,0,0,0,0,0,0,0,40,4,14,1,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_parens_3.cpp,Unmatched Parentheses,6,16,1,0,1,0,0,0,0,0,0,0,1,1,29,5,44,0,0,1,0,1,0,0,0,0,1,1,1,1
+undeclared_13.cpp,Undeclared Variable,8,13,0,1,0,0,0,0,0,0,0,0,0,0,39,7,74,0,0,0,0,1,1,0,1,1,0,0,0,2
+undeclared_25.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,37,0,0,0,0,0,0,1,0,1,0,0,0,0
+invalid_decl_2.cpp,Invalid Syntax in Declarations,6,5,0,1,0,0,0,0,0,0,0,0,0,0,38,7,57,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_braces_8.cpp,Unmatched Braces,10,1,1,0,0,0,0,0,0,0,0,0,0,1,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+undeclared_21_aug112.cpp,Undeclared Variable,10,8,0,1,0,0,0,0,0,0,0,0,0,0,48,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_16.cpp,Missing Semicolon,5,9,0,0,0,0,0,0,0,0,0,0,0,0,41,4,12,0,1,0,0,0,0,1,0,0,0,0,0,0
+unmatched_braces_16.cpp,Unmatched Braces,12,1,1,0,0,0,0,0,0,0,0,0,1,0,28,6,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+undeclared_17_aug336.cpp,Undeclared Variable,9,2,0,1,0,0,0,0,0,0,0,0,0,0,41,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_3.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,34,6,24,1,1,0,0,0,0,1,0,0,0,0,0,0
+missing_return_24_aug702.cpp,Missing Return Statement,11,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+unmatched_braces_24.cpp,Unmatched Braces,8,5,1,0,1,0,0,1,0,0,0,0,0,0,39,4,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+type_mismatch_3_aug664.cpp,Type Mismatch,4,14,0,0,0,1,0,0,0,0,0,0,0,0,64,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_29.cpp,Unmatched Parentheses,5,29,1,0,1,0,0,0,0,0,0,1,0,1,29,5,51,0,1,0,0,2,1,1,0,0,0,1,0,3
+undeclared_3.cpp,Undeclared Variable,6,5,0,1,0,0,0,0,0,0,0,0,0,0,36,7,31,0,0,0,0,0,0,1,0,1,0,0,0,0
+unmatched_braces_7.cpp,Unmatched Braces,9,5,1,0,1,0,0,1,0,0,0,0,0,0,39,4,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_semicolon_11.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,34,6,18,0,0,1,0,1,1,0,1,0,1,0,1,2
+missing_return_29.cpp,Missing Return Statement,9,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+missing_semicolon_12.cpp,Missing Semicolon,7,5,1,0,1,0,0,0,0,0,0,1,0,0,32,6,15,1,1,0,0,0,0,1,0,0,0,0,0,0
+invalid_decl_22_aug325.cpp,Invalid Syntax in Declarations,4,10,0,1,0,0,0,0,0,0,0,0,0,0,45,7,12,0,1,1,0,1,1,0,0,0,1,0,1,2
+missing_header_6.cpp,Missing Header Include,9,22,0,1,0,0,0,0,0,0,0,0,0,0,39,7,43,0,0,0,0,1,1,0,0,0,0,0,0,2
+missing_header_30_aug742.cpp,Missing Header Include,11,4,0,1,0,0,0,0,0,0,0,0,0,0,43,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_26.cpp,Missing Header Include,7,5,0,1,0,0,0,0,0,0,0,0,0,0,34,7,13,1,0,0,0,0,0,1,0,1,0,0,0,0
+undeclared_30_aug455.cpp,Undeclared Variable,1,6,0,1,0,0,0,0,0,0,0,0,0,0,45,8,26,0,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_20.cpp,Unmatched Parentheses,4,9,0,0,0,0,0,0,0,0,0,0,0,0,47,8,59,0,1,1,0,1,0,0,0,0,1,1,1,1
+type_mismatch_18.cpp,Type Mismatch,5,16,0,0,0,0,1,0,0,0,0,0,0,0,58,8,39,0,1,0,0,0,0,1,0,1,0,0,0,0
+unmatched_braces_7_aug668.cpp,Unmatched Braces,8,4,1,0,1,0,0,1,0,0,0,0,0,0,45,5,18,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_return_21.cpp,Missing Return Statement,10,1,0,0,0,1,0,1,1,0,0,0,0,0,56,7,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_parens_23_aug155.cpp,Unmatched Parentheses,6,38,1,0,1,0,0,0,0,0,0,1,0,1,35,6,21,1,0,0,0,0,0,0,1,0,0,0,0,0
+invalid_decl_19.cpp,Invalid Syntax in Declarations,6,13,0,1,0,0,0,0,0,0,0,0,0,0,38,7,22,1,0,0,0,0,0,0,1,0,0,0,0,0
+missing_semicolon_28.cpp,Missing Semicolon,5,9,0,0,0,0,0,0,0,0,0,0,0,0,39,4,16,0,1,0,0,0,0,1,0,0,0,0,0,0
+missing_header_16.cpp,Missing Header Include,7,5,0,1,0,0,0,0,0,0,0,0,0,0,34,7,13,1,0,0,0,1,1,0,0,0,0,0,0,2
+missing_return_11.cpp,Missing Return Statement,17,1,0,0,0,1,0,1,0,0,0,0,0,0,66,8,1,0,0,0,1,0,0,0,0,0,-1,0,1,0
+unmatched_braces_12.cpp,Unmatched Braces,10,13,1,0,0,0,0,0,0,0,0,0,1,0,28,6,9,1,0,0,0,0,0,0,0,0,0,0,0,0
+unmatched_parens_6.cpp,Unmatched Parentheses,6,5,1,0,1,0,0,0,0,0,0,0,0,0,40,4,11,1,1,0,0,0,0,1,0,0,0,0,0,0
+type_mismatch_24_aug125.cpp,Type Mismatch,3,15,0,0,0,0,1,0,0,0,0,0,0,0,51,7,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+missing_header_9.cpp,Missing Header Include,8,27,0,1,0,0,0,0,0,0,0,0,0,0,45,7,68,0,0,0,0,1,1,0,1,0,0,0,0,2
