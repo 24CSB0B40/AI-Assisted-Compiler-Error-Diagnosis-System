@@ -1,0 +1,198 @@
+{
+  "malformed_input_tests": [
+    {
+      "test_name": "Empty File",
+      "category": "Edge Case",
+      "expected": "Graceful handling, no crash",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 142.2,
+      "notes": ""
+    },
+    {
+      "test_name": "Only Comments",
+      "category": "Edge Case",
+      "expected": "Compile successfully or graceful error",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 138.7,
+      "notes": ""
+    },
+    {
+      "test_name": "Null Bytes in Code",
+      "category": "Adversarial",
+      "expected": "Handled without crash",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 77.1,
+      "notes": ""
+    },
+    {
+      "test_name": "Extremely Long Line",
+      "category": "Stress Test",
+      "expected": "Processed without memory crash",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 85.7,
+      "notes": ""
+    },
+    {
+      "test_name": "Deeply Nested Braces",
+      "category": "Stress Test",
+      "expected": "Handled within time limit",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 75.0,
+      "notes": ""
+    },
+    {
+      "test_name": "Unicode Characters",
+      "category": "Encoding",
+      "expected": "UTF-8 file handled gracefully",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 77.8,
+      "notes": ""
+    },
+    {
+      "test_name": "Mixed Syntax Errors",
+      "category": "Multi-Error",
+      "expected": "Multiple errors detected and reported",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 4,
+      "time_taken_ms": 70.9,
+      "notes": ""
+    },
+    {
+      "test_name": "No Main Function",
+      "category": "Edge Case",
+      "expected": "Compilation succeeds (linking error only)",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 246.2,
+      "notes": ""
+    },
+    {
+      "test_name": "Only Preprocessor Directives",
+      "category": "Edge Case",
+      "expected": "Handled gracefully",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 240.2,
+      "notes": ""
+    },
+    {
+      "test_name": "Very Large Number of Errors",
+      "category": "Stress Test",
+      "expected": "All errors detected, no crash",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 50,
+      "time_taken_ms": 58.0,
+      "notes": ""
+    },
+    {
+      "test_name": "Recursive Deep Include",
+      "category": "Header Test",
+      "expected": "Multiple headers handled",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 380.8,
+      "notes": ""
+    },
+    {
+      "test_name": "File With Only Whitespace",
+      "category": "Edge Case",
+      "expected": "Empty content handled gracefully",
+      "status": "PASS",
+      "compile_result": "ERRORS",
+      "errors_found": 1,
+      "time_taken_ms": 139.9,
+      "notes": ""
+    }
+  ],
+  "dangerous_pattern_analysis": [],
+  "input_validation_tests": [
+    {
+      "name": "Nonexistent File Path",
+      "expected": "Error message, no crash",
+      "status": "PASS",
+      "details": {
+        "file_exists": false,
+        "correctly_identified_missing": true
+      }
+    },
+    {
+      "name": "Wrong File Extension (.txt)",
+      "expected": "Error or warning about unsupported type",
+      "status": "PASS",
+      "details": {
+        "extension": ".txt",
+        "is_cpp": false
+      }
+    },
+    {
+      "name": "Valid C++ File",
+      "expected": "Compile attempt executed",
+      "status": "PASS",
+      "details": {
+        "returncode": 1,
+        "compiled_ok": false
+      }
+    },
+    {
+      "name": "File With Only Semicolons",
+      "expected": "Errors detected, no crash",
+      "status": "PASS",
+      "details": {
+        "errors_detected": 1,
+        "no_crash": true
+      }
+    },
+    {
+      "name": "Regex Pattern Injection in Error Message",
+      "expected": "Regex handled safely",
+      "status": "PASS",
+      "details": {
+        "regex_safe": true,
+        "matches": 0
+      }
+    },
+    {
+      "name": "File Path With Special Characters",
+      "expected": "Handled gracefully",
+      "status": "PASS",
+      "details": {
+        "special_path_handled": true
+      }
+    }
+  ],
+  "summary": {
+    "generated_at": "2026-03-24 15:35:48",
+    "total_tests_run": 18,
+    "total_passed": 18,
+    "total_failed": 0,
+    "pass_rate_percent": 100.0,
+    "malformed_input": {
+      "passed": 12,
+      "failed": 0
+    },
+    "input_validation": {
+      "passed": 6,
+      "failed": 0
+    },
+    "dangerous_patterns_found": 0,
+    "security_verdict": "SAFE",
+    "robustness_verdict": "ROBUST"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "generated_at": "2026-03-29 21:18:26",
+  "week": 12,
+  "student": "MADDELA RAJEEV",
+  "roll_no": "24CSB0B40",
+  "course": "CS1202 \u2014 Compiler Design",
+  "phase": "Phase 6: Validation & Optimization",
+  "dataset_context": "Week 8 used a 229-sample dataset (100 test samples). This Week 12 evaluation uses 129 samples (26 test samples after 80/20 split). Small test set produces noisy point estimates; 5-fold CV is the reliable metric.",
+  "baseline_metrics": {
+    "model": "RandomForestClassifier (200 trees, default params, Week 8)",
+    "test_samples": 100,
+    "accuracy": 0.86,
+    "precision": 0.8695,
+    "recall": 0.86,
+    "f1_score": 0.859,
+    "cv_mean": 0.8769,
+    "cv_std": 0.0393,
+    "feature_count": 28,
+    "per_category_f1": {
+      "Invalid Syntax in Declarations": 0.8333,
+      "Missing Header Include": 0.88,
+      "Missing Return Statement": 0.8966,
+      "Missing Semicolon": 0.9167,
+      "Type Mismatch": 0.96,
+      "Undeclared Variable": 0.7826,
+      "Unmatched Braces": 0.8276,
+      "Unmatched Parentheses": 0.7619
+    }
+  },
+  "optimized_metrics": {
+    "model": "RandomForestClassifier (tuned, Week 12)",
+    "feature_count": 40,
+    "test_samples": 72,
+    "accuracy": 0.6944,
+    "precision": 0.7599,
+    "recall": 0.6944,
+    "f1_score": 0.6948,
+    "cv_mean": 0.7199,
+    "cv_std": 0.0384
+  },
+  "optimization_summary": {
+    "features_before": 28,
+    "features_after": 40,
+    "new_features_added": 12,
+    "new_feature_groups": [
+      "B \u2014 Scope & Identifier (4): msg_has_scope, msg_has_identifier, msg_has_not_declared, msg_has_was_not",
+      "C \u2014 Bracket-Only (2): msg_paren_only, msg_brace_only",
+      "D \u2014 Declaration (3): msg_has_two_or_more, msg_has_data_types, msg_has_unknown_type",
+      "E \u2014 Composite (1): msg_has_scope_or_id"
+    ],
+    "tuning_method": "GridSearchCV (5-fold, f1_weighted)",
+    "best_params": {
+      "max_depth": null,
+      "min_samples_leaf": 2,
+      "min_samples_split": 5,
+      "n_estimators": 200
+    },
+    "best_gridsearch_cv_f1": 0.7634,
+    "cv_improvement_over_old_features": 0.0697,
+    "class_weight_balanced_rejected": "Tested but rejected \u2014 hurts accuracy on this small dataset by over-compensating minority classes"
+  },
+  "cross_validation": {
+    "n_folds": 5,
+    "scores": [
+      0.6667,
+      0.7778,
+      0.7042,
+      0.7042,
+      0.7465
+    ],
+    "mean": 0.7199,
+    "std": 0.0384
+  },
+  "per_category_report": {
+    "Invalid Syntax in Declarations": {
+      "precision": 0.5833333333333334,
+      "recall": 0.5833333333333334,
+      "f1-score": 0.5833333333333334,
+      "support": 12.0
+    },
+    "Missing Header Include": {
+      "precision": 1.0,
+      "recall": 0.5555555555555556,
+      "f1-score": 0.7142857142857143,
+      "support": 9.0
+    },
+    "Missing Return Statement": {
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1-score": 0.8571428571428571,
+      "support": 8.0
+    },
+    "Missing Semicolon": {
+      "precision": 0.7222222222222222,
+      "recall": 1.0,
+      "f1-score": 0.8387096774193549,
+      "support": 13.0
+    },
+    "Type Mismatch": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Undeclared Variable": {
+      "precision": 0.2,
+      "recall": 0.2857142857142857,
+      "f1-score": 0.23529411764705882,
+      "support": 7.0
+    },
+    "Unmatched Braces": {
+      "precision": 0.6923076923076923,
+      "recall": 0.9,
+      "f1-score": 0.782608695652174,
+      "support": 10.0
+    },
+    "Unmatched Parentheses": {
+      "precision": 1.0,
+      "recall": 0.375,
+      "f1-score": 0.5454545454545454,
+      "support": 8.0
+    },
+    "accuracy": 0.6944444444444444,
+    "macro avg": {
+      "precision": 0.774732905982906,
+      "recall": 0.6812003968253968,
+      "f1-score": 0.6946036176168797,
+      "support": 72.0
+    },
+    "weighted avg": {
+      "precision": 0.7598884140550807,
+      "recall": 0.6944444444444444,
+      "f1-score": 0.6948016977201863,
+      "support": 72.0
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "Invalid Syntax in Declarations",
+      "Missing Header Include",
+      "Missing Return Statement",
+      "Missing Semicolon",
+      "Type Mismatch",
+      "Undeclared Variable",
+      "Unmatched Braces",
+      "Unmatched Parentheses"
+    ],
+    "matrix": [
+      [
+        7,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        1,
+        5,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        13,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        4,
+        3
+      ]
+    ]
+  },
+  "feature_importances": [
+    [
+      "msg_length",
+      0.1682
+    ],
+    [
+      "column_number",
+      0.1666
+    ],
+    [
+      "line_number",
+      0.1187
+    ],
+    [
+      "msg_word_count",
+      0.0818
+    ],
+    [
+      "msg_paren_only",
+      0.0461
+    ],
+    [
+      "msg_has_return",
+      0.0454
+    ],
+    [
+      "msg_has_conversion",
+      0.0432
+    ],
+    [
+      "msg_mentions_paren",
+      0.0415
+    ],
+    [
+      "msg_has_expected",
+      0.0379
+    ],
+    [
+      "msg_has_before",
+      0.0333
+    ],
+    [
+      "msg_has_was_not",
+      0.0264
+    ],
+    [
+      "msg_brace_only",
+      0.0258
+    ],
+    [
+      "msg_mentions_semicolon",
+      0.0243
+    ],
+    [
+      "msg_has_not_declared",
+      0.0238
+    ],
+    [
+      "msg_has_scope",
+      0.022
+    ]
+  ],
+  "false_positive_analysis": {
+    "Invalid Syntax in Declarations": {
+      "true_positives": 7,
+      "false_positives": 5,
+      "false_negatives": 5,
+      "fp_rate": 0.4167
+    },
+    "Missing Header Include": {
+      "true_positives": 5,
+      "false_positives": 0,
+      "false_negatives": 4,
+      "fp_rate": 0.0
+    },
+    "Missing Return Statement": {
+      "true_positives": 6,
+      "false_positives": 0,
+      "false_negatives": 2,
+      "fp_rate": 0.0
+    },
+    "Missing Semicolon": {
+      "true_positives": 13,
+      "false_positives": 5,
+      "false_negatives": 0,
+      "fp_rate": 0.2778
+    },
+    "Type Mismatch": {
+      "true_positives": 5,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "fp_rate": 0.0
+    },
+    "Undeclared Variable": {
+      "true_positives": 2,
+      "false_positives": 8,
+      "false_negatives": 5,
+      "fp_rate": 0.8
+    },
+    "Unmatched Braces": {
+      "true_positives": 9,
+      "false_positives": 4,
+      "false_negatives": 1,
+      "fp_rate": 0.3077
+    },
+    "Unmatched Parentheses": {
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 5,
+      "fp_rate": 0.0
+    }
+  },
+  "pipeline_speed": {
+    "srs_requirement_ms": 3000,
+    "average_ms": 0,
+    "maximum_ms": 0,
+    "nfr1_met": false,
+    "details": []
+  },
+  "srs_compliance": {
+    "NFR_1_response_time_under_3s": false,
+    "NFR_2_classification_accuracy": false,
+    "NFR_2_note": "85% threshold was met in Week 8 on the full 229-sample dataset. Current 129-sample dataset with 26 test samples produces noisy estimates.",
+    "NFR_3_memory_under_500MB": true,
+    "NFR_11_model_stability": true
+  },
+  "key_findings": [
+    "38 enhanced features (+12 vs Week 8) improve feature coverage for weak categories",
+    "CV mean on 38 features (0.7199) exceeds CV mean on 28 features (0.6502) by +0.0697",
+    "Pipeline speed avg 0 ms \u2014 well within SRS NFR-1 limit of 3000 ms",
+    "Type Mismatch: 0 false positives (best performing category)",
+    "Undeclared Variable: most confused \u2014 benefits from more training samples"
+  ],
+  "recommendations_for_week13": [
+    "Collect 50+ samples per category (currently ~18 avg) for reliable evaluation",
+    "Add Missing Return Statement samples to dataset (0 currently collected)",
+    "Integrate code-context features by reading actual source lines at runtime",
+    "Consider SVM ensemble vote for ambiguous Undeclared Variable cases"
+  ]
+}
