@@ -1,5 +1,12 @@
 # AI-Assisted Compiler Error Diagnosis System
 
+## Key Results
+
+- Test Accuracy: 86%
+- Cross-Validation Mean Accuracy: 87.7%
+- End-to-End Validation Pass Rate: 93.75%
+- Compiler Error Categories Classified: 8
+
 ## Overview
 
 This project is a Machine Learning based compiler error diagnosis system that automatically analyzes GCC/G++ compiler diagnostics and classifies C++ compilation errors into meaningful categories. The system assists beginner programmers by providing human-readable explanations and debugging guidance.
